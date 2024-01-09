@@ -28,7 +28,6 @@ font-weight: 400;
 padding-top: 110px;
 }
 
-2
 .offer{
     text-align: center;
     color: #F00;
@@ -175,9 +174,10 @@ padding-right: 582px;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
+    
 }
 
-.im{
+.img{
     border: 10px solid red;
     grid-area: 50px;
     border-radius: 50%;
@@ -217,7 +217,30 @@ padding-right: 582px;
     line-height: 16px;
 }
 
+.sp6{
+    position: relative;
+}
+
+.i1{
+    position: absolute;
+}
+
+#p1{
+    margin-top: 432px;
+    margin-left: 60px;
+}
+#p3{
+    margin-left: 951px;
+    margin-bottom: 1000px;
+
+}
+
+#p4{
+    margin-left: 800px;
+}
+
 .main7{
+    margin-top: 700px;
     margin-left: 60px;
 }
 .m7p1{
@@ -237,9 +260,8 @@ padding-right: 582px;
 
 }
 
-.m7p3{
-
-
+.m7p1, .m7p2{
+    line-height: 20px;
 }
 
 .m7i1{
@@ -259,7 +281,7 @@ padding-right: 582px;
     margin-left: 60px;
     margin-right: 40px;
     width: 1300px;
-    height: 520px;
+    height: 590px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
 }
@@ -277,6 +299,7 @@ padding-right: 582px;
     font-weight: 900;
     text-transform: capitalize;
 }
+
 
 .main9{
     margin-top: 110px;
@@ -315,7 +338,7 @@ padding-right: 582px;
 .m9s2{
     align-content: center;
     padding-left: 530px;
-    padding-top: 120px;
+    padding-top: 70px;
 }
 
 .m9s3{
