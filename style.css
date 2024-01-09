@@ -284,7 +284,7 @@ padding-right: 582px;
     margin-right: 0px;
     background: #070211;
     width: 1410px;
-    height: 700px;
+    height: 600px;
 
 }
 
@@ -312,7 +312,35 @@ padding-right: 582px;
     line-height: 40px;
 }
 
-#hr1{
-    background: rgba(255, 255, 255, 0.15);
-    padding-left: 70px;
+.m9s2{
+    align-content: center;
+    padding-left: 530px;
+    padding-top: 120px;
+}
+
+.m9s3{
+    display: flex;
+    margin-top: 60PX;
+}
+
+
+.pn9{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.m9p3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 60px;
+}
+
+.m9p4{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 800px;
 }
